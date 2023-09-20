@@ -1,0 +1,13 @@
+leftnav:
+- identifier: external--314389252-1684525350289
+  name: Transport and Signaling
+  url: https://www.edx.org/course/cell-biology-transport
+  weight: 10
+- identifier: external--470787835-1684525380713
+  name: The Cytoskeleton and Cell Cycle
+  url: https://www.edx.org/course/cell-biology-2
+  weight: 20
+- identifier: external--470787834-1684525411455
+  name: Cell-Cell Interactions
+  url: https://www.edx.org/course/cell-biology-3
+  weight: 30
